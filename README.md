@@ -8,8 +8,25 @@ A full stack web application using MERN for an e-commece website.  This appliact
 
 To run the website you must install dependencies by running 'nom install' through termianal.  Then use the command "npm run develop" to run the application.
 
+## Technologies Used
+
+
+JavaScript
+Node.js
+Express
+React
+Redux
+Stripe
+Apollo Server
+Graphql
+Mongodb
+Mongoose
+Dotenv
+Heroku
 
 ## license
+
+(http://img.shields.io/badge/license-MIT-blue.svg)
 
 
 
