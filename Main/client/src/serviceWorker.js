@@ -9,6 +9,7 @@
 
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read https://bit.ly/CRA-PWA
+//bbbb
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
@@ -107,7 +108,7 @@ function checkValidServiceWorker(swUrl, config) {
     headers: { 'Service-Worker': 'script' },
   })
     .then(response => {
-      // Ensure service worker exists, and that we really are getting a JS file.
+      // Ensure service worker exists, and that we really are getting a JS file.////
       const contentType = response.headers.get('content-type');
       if (
         response.status === 404 ||
